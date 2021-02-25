@@ -1,0 +1,4 @@
+server-ip: "your.server.ip"
+staff-chat:
+  enabled: true
+  prefix: "&7[&4StaffChat&7] [&c%player%&7] &f%message%"

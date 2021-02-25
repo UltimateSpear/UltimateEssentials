@@ -1,0 +1,20 @@
+name: UltimateEssentials
+author: UltimateSpear
+version: 1.0
+main: me.spear.ue.UltimateEssentials
+commands:
+  gamemode:
+    description: Gamemode Command for UE
+    aliases: [gmc, gma, gms, gm]
+  heal:
+    description: Heal Command for UE
+    aliases: [god, healme, cureme]
+  feed:
+    description: Food command for UE
+    aliases: [feedme, makemeeat]
+  invsee:
+    description: InvSee Command for UE
+    aliases: [showinv, inv]
+  freeze:
+    description: Freeze Command for UE
+    aliases: [ss, freezeplayer, stafffreeze]
